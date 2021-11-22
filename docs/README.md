@@ -1,5 +1,3 @@
-# a
-
 # 2021 NYU-ITP Installation - John Henry Thompson
 
 ## COVID MEMORIAL TICKER
