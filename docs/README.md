@@ -1,4 +1,7 @@
-# 2021 NYU-ITP Installation - John Henry Thompson
+# 2021 NYU-ITP Installation
+
+John Henry Thompson
+2021
 
 ## [Covid Memorial Ticker](covid.md)
 
