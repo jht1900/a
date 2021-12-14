@@ -1,5 +1,8 @@
 # Facets
 
+John Henry Thompson
+2021
+
 FACETS is a two-screen experience:
 
 ## Front Screen:

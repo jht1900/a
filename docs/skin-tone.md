@@ -1,5 +1,8 @@
 # [⌂](./README.md) Skin Tone
 
+John Henry Thompson
+2021
+
 SKIN TONE is a two-screen experience:
 
 # Screen Right:

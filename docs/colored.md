@@ -1,5 +1,8 @@
 # [⌂](./README.md) Colored Portraits
 
+John Henry Thompson
+2021
+
 3 interactive video works on 5 screens
 Facets (2 screens)
 Color Line 1900 (1 screen)

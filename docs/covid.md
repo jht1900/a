@@ -1,5 +1,8 @@
 # [⌂](./README.md) Covid Memorial Ticker
 
+John Henry Thompson
+2021
+
 COVID MEMORIAL TICKER: Remembering in the Midst
 At the beginning of COVID-19 pandemic my partner, Shindy Johnson, and I contemplated a response to the ever growing global impact on the lives of essential workers and the most vulnerable African-American and LatinX demographic within that population. More than anything, we were concerned that the lives lost were not relegated to the status of a statistic, and that the grieving survivors did not feel alone, isolated and unseen.
 
