@@ -1,11 +1,11 @@
 # 2021 NYU-ITP Installation - John Henry Thompson
 
-## COVID MEMORIAL TICKER
+## [Covid Memorial Ticker](covid.md)
 
-## COLORED PORTRAITS
+## [Colored Portraits](colored.md)
 
-## FACETS
+### [Facets](facets.md)
 
-## COLOR LINE 1900
+### [Color Line 1900](color-line.md)
 
-## SKIN TONE
+### [Skin Tone](skin-tone.md)
