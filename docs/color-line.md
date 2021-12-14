@@ -1,4 +1,4 @@
-# [⌂](./README.md) Color Line 1900
+# Color Line 1900
 
 John Henry Thompson
 2021

@@ -1,4 +1,4 @@
-# [⌂](./README.md) Colored Portraits
+# Colored Portraits
 
 John Henry Thompson
 2021

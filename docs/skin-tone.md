@@ -1,4 +1,4 @@
-# [⌂](./README.md) Skin Tone
+# Skin Tone
 
 John Henry Thompson
 2021

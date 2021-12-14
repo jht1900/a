@@ -1,4 +1,4 @@
-# [⌂](./README.md) Covid Memorial Ticker
+# Covid Memorial Ticker
 
 John Henry Thompson
 2021
