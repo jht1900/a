@@ -12,3 +12,7 @@ John Henry Thompson
 ### [Color Line 1900](color-line.md)
 
 ### [Skin Tone](skin-tone.md)
+
+[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0575-hall-full.JPEG)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0575-hall-full.JPEG)
+
+[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0576-hall-other.JPEG)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0576-hall-other.JPEG)
