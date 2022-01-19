@@ -5,9 +5,9 @@ John Henry Thompson
 
 3 interactive video works on 5 screens
 
-- Facets (2 screens)
-- Color Line 1900 (1 screen)
-- Skin Tone (2 screens)
+- [Facets (2 screens)](facets.md)
+- [Color Line 1900 (1 screen)](color-line.md)
+- [Skin Tone (2 screens)](skin-tone.md)
 
 The Colored Portraits installation explores the possibilities of experimentation and innovation in computing and video art by investigating the creative potential of filtering live video. Evolving from an adaptation of the
 [iOS native app DICE](http://www.johnhenrythompson.com/3-dice)
