@@ -26,3 +26,7 @@ We have not become numb to the sheer scale of pandemic death in the USA, so we s
 Credit [epvisual.com](https://epvisual.com/) for initial support.
 
 [2021 02 02 covid 19 ticker](https://www.youtube.com/watch?v=ZNKkax-VSDo&list=PLTqu0aYG0uh7MVihcIwuEK1ulJV8flsU6) - video Instrumental music credit Music credit: [Madiba Johnson](https://youtu.be/wBvDvnbOpBE)
+
+[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0549-covid-ticker-hall.JPEG)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0549-covid-ticker-hall.JPEG)
+
+[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0550-ticker-nytimes-100k.JPEG)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0550-ticker-nytimes-100k.JPEG)

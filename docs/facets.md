@@ -14,3 +14,5 @@ FACETS reflects John Henry Thompson's exploration of the structure of the pixel 
 ## Back Screen:
 
 Deeply pixelated and [mathematical convoluted](https://www.dspguide.com/ch6/2.htm) image of the observer and surroundings.
+
+[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0571-facets.JPEG)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0571-facets.JPEG)
