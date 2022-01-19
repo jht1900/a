@@ -27,10 +27,10 @@ Broadly speaking, what I am exploring here is a platform to easily apply video e
 Technologies:
 
 - [p5js - a javascript library](https://p5js.org) that makes it easier for people who do not have a mathematical or engineering background to harness the creative potential of the computer by programming in the browser.
-- [ml5js, a machine learning library](https://ml5js.org) for facial recognition, packaged together by people from ITP to make it compatible with - - p5js. ml5js builds on [TensorFlow js](https://www.tensorflow.org/js).
+- [ml5js, a machine learning library](https://ml5js.org) for facial recognition, packaged together by people from ITP to make it compatible with p5js. ml5js builds on [TensorFlow js](https://www.tensorflow.org/js).
 - [Live Video library](https://github.com/vanevery/p5LiveMedia) created by Shawn Van Every.
 
-##
+## -
 
 [![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0569-hall-4.JPEG)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0569-hall-4.JPEG)
 
