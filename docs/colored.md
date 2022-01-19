@@ -63,4 +63,4 @@ The threefold progression of pieces is quite evocative.
    Colored Portraits is a journey for the viewer. You start by seeing portraits of yourself in a new light, as digital cubist paintings. Your face is then juxtaposed with powerful historical images, and you end up facing yourself and your own color, and your place among others around you.
    Thank you, John Henry -- my cosmic non-identical twin -- for your wonderful art work, Colored Portraits ! This journey does one good.
 
-   http://benjaminbergery.com
+   [http://benjaminbergery.com](http://benjaminbergery.com)
