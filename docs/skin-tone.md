@@ -29,8 +29,8 @@ SKIN TONE is inspired by the work of
 
 [![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0494-skin-tone-jht-collage.JPG)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0494-skin-tone-jht-collage.JPG)
 
-[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tone-like-triangle_2021-06-11 (2).jpg)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tone-like-triangle_2021-06-11 (2).jpg)
-
 [![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tones-1-bb-jht.jpg)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tones-1-bb-jht.jpg)
 
 [![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tones-2-bb-jht.jpg)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tones-2-bb-jht.jpg)
+
+[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tone-like-triangle_2021-06-11-2.jpg)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/skin-tone-like-triangle_2021-06-11-2.jpg)
