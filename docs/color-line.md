@@ -22,3 +22,5 @@ In 1903, W.E.B. Du Bois issued a dark observation that "...THE problem of the tw
 I see the color line as an economic system which persists today and is based on the extraction of worth and wealth in an unidirectional way from the “darker to the lighter races” in America.
 
 [![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0572-color-line.JPEG)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2022-01-01/IMG_0572-color-line.JPEG)
+
+[![](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/0-color-line-1900_2021-08-23-1.jpg)](https://jht1493.net/a1/skt/assets/mov/Colored-Portraits-2021/2021/0-color-line-1900_2021-08-23-1.jpg)
