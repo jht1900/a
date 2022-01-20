@@ -15,6 +15,6 @@ FACETS reflects John Henry Thompson's exploration of the structure of the pixel 
 
 ## Back Screen:
 
-~~ Deeply pixelated and [mathematical convoluted](https://www.dspguide.com/ch6/2.htm) image of the observer and surroundings. ~~
+~~Deeply pixelated and [mathematical convoluted](https://www.dspguide.com/ch6/2.htm) image of the observer and surroundings.~~
 
-2022-01-20 Facets back screen retired. awaiting hardware upgrade
+2022-01-20 Facets back screen retired. awaiting hardware upgrade.
