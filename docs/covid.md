@@ -17,7 +17,7 @@ Which led to:
 
 [The Covid Memorial Ticker](https://jht1493.net/a1/skt/covid19_heal_ticker), this installation.
 
-How can a public memorial be presented for the many who have died (and will die) from the COVID-19 pandemic? The COVID Memorial Ticker explores one possibility as an installation in a secluded corner hallway on the floor of NYU-ITP. Total deaths in the USA per day from COVID-19 are displayed as simple squares. The death count for yesterday is shown along with the count of each preceding day, back to the beginning of the pandemic - February 2020.
+How can a public memorial be presented for the many who have died (and will die) from the COVID-19 pandemic? The COVID Memorial Ticker explores one possibility as an installation on the floor of NYU-ITP. Total deaths in the USA per day from COVID-19 are displayed as simple squares. The death count for yesterday is shown along with the count of each preceding day, back to the beginning of the pandemic - February 2020.
 
 There is a 10 second pause as each day is displayed for a few moments of silence for the deceased.
 
